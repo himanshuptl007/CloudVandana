@@ -18,10 +18,6 @@ This repository contains my solutions to the assignments in Java, JavaScript, an
 
 Feel free to explore each folder for the specific code and solutions related to each part of the assignment.
 
-## How to Use
-- To access the code for a specific task, navigate to the corresponding folder.
-- Detailed instructions and usage examples can be found in each subfolder's README or code files.
-
 Please let me know if you have any questions or need further assistance with these solutions.
 
 Happy coding!
